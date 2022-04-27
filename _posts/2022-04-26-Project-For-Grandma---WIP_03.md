@@ -6,12 +6,12 @@ tags: [unity, projects, wip]
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjI71BKR-z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%"  src="https://www.youtube.com/embed/kjI71BKR-z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Today I focused in making a puppet in a stick, similar to how a Paper Shadow Puppet work
 
-After watching some tutorials and using Unity 2d physics, rigidbodies, 2d Hinge joints and Kenney art assets, I ended up with a 2d ragdoll, and later a 2d puppet close enought to what i wanted
+After watching some tutorials and using Unity 2d physics, rigidbodies, 2d Hinge joints and Kenney art assets, I ended up with a 2d ragdoll, and later a 2d puppet close enought to what I wanted.
 
 Here are a list of references that I used for this part of the project
 
